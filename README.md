@@ -1,5 +1,5 @@
 # FieldSecured
-###### Chrome extension to fix the autofill security vulnerability where a website can get the user's private infor with the user user knowing.
+###### Chrome extension to fix the autofill security vulnerability where a website can get the user's private information without the user knowing.
 <p align="center">
   <img src="https://github.com/createdbyfahad/FieldSecured/blob/master/icons/icon128.png" width="128"/>
 </p>
