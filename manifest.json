@@ -2,8 +2,8 @@
 	"manifest_version": 2,
 
 	"name": "FieldSecured: Autofill Phishing Prevention",
-	"description": "FieldSecured will prevent Autofill from giving personal information to any website whithout the user's constent.",
-	"version": "0.2",
+	"description": "FieldSecured will prevent Autofill from giving personal information to any website without the user's consent.",
+	"version": "1.0",
 
 	"browser_action": {
 		"default_icon": "icons/icon16.png",
